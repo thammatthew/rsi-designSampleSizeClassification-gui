@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.log
+.DS_Store
+.RData
+.Rhistory
+.Rproj.user
+/testing
+/old
+/results
+/environmentData
+
